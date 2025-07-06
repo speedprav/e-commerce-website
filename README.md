@@ -205,8 +205,8 @@ ecommerce-project/
 ## Contact & Support
 
 ### Contact Information
-- **Email**: praveenchoudharypc608922@gmail.com
-- **Phone**: +91 8905522879
+- **Email**: usernamr@gmail.com
+- **Phone**: +91 XXXXXXXXXX
 - **Address**: Parul University, Vadodara, Gujarat, India - 391760
 
 ### Contact Form Integration
