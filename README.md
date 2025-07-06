@@ -205,7 +205,7 @@ ecommerce-project/
 ## Contact & Support
 
 ### Contact Information
-- **Email**: usernamr@gmail.com
+- **Email**: username@gmail.com
 - **Phone**: +91 XXXXXXXXXX
 - **Address**: Parul University, Vadodara, Gujarat, India - 391760
 
